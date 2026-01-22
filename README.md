@@ -1,7 +1,7 @@
 My First GitHub Repository
 
-Name: Saja Hanif
-Registration Number: BSNU25101012
+Name: Muhammad Awais
+Registration Number: BSNU25101031
 
 This repository is created as part of Lab Activity #1.
 
