@@ -1,7 +1,7 @@
 My First GitHub Repository
 
-Name: Muhammad Awais
-Registration Number: BSNU25101031
+Name: Shoaban
+Registration Number: BSNU25101035
 
 This repository is created as part of Lab Activity #1.
 
