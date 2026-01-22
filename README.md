@@ -1,7 +1,7 @@
 My First GitHub Repository
 
-Name: Shoaban
-Registration Number: BSNU25101035
+Name: Imdad Baloch
+Registration Number: BSNU25101041
 
 This repository is created as part of Lab Activity #1.
 
