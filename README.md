@@ -1,7 +1,7 @@
 My First GitHub Repository
 
-Name: Irfan Ahmed
-Registration Number: BSNU25101050
+Name: Mustafa
+Registration Number: BSNU25101038
 
 This repository is created as part of Lab Activity #1.
 
