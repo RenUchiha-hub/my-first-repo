@@ -1,7 +1,7 @@
 My First GitHub Repository
 
-Name: Muhammad Sufyan
-Registration Number: BSNU25101015
+Name: Syed Mesam Raza
+Registration Number: BSNU25101044
 
 This repository is created as part of Lab Activity #1.
 
