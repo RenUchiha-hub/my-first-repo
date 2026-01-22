@@ -1,7 +1,7 @@
 My First GitHub Repository
 
-Name: Imdad Baloch
-Registration Number: BSNU25101041
+Name: Irfan Ahmed
+Registration Number: BSNU25101050
 
 This repository is created as part of Lab Activity #1.
 
