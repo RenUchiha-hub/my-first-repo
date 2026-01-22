@@ -1,7 +1,7 @@
 My First GitHub Repository
 
-Name: Ahsan Haroon
-Registration Number: BSNU25101004
+Name: Muhammad Sufyan
+Registration Number: BSNU25101015
 
 This repository is created as part of Lab Activity #1.
 
