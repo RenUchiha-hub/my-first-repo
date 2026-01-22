@@ -1,7 +1,7 @@
 My First GitHub Repository
 
-Name: Raza syed
-Registration Number: BSNU25101040
+Name: Shezad ul Haq
+Registration Number: BSNU25101020
 
 This repository is created as part of Lab Activity #1.
 
