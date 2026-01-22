@@ -1,7 +1,7 @@
 My First GitHub Repository
 
-Name: Areej Munawar
-Registration Number: BSNU25101016
+Name: Jaddah Hayat
+Registration Number: BSNU25101025
 
 This repository is created as part of Lab Activity #1.
 
