@@ -1,7 +1,7 @@
 My First GitHub Repository
 
-Name: Sandia Nazar
-Registration Number: BSNU25101010
+Name: khadija
+Registration Number: BSNU25101048
 
 This repository is created as part of Lab Activity #1.
 
