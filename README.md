@@ -1,7 +1,7 @@
 My First GitHub Repository
 
-Name: khadija
-Registration Number: BSNU25101048
+Name: Raza syed
+Registration Number: BSNU25101040
 
 This repository is created as part of Lab Activity #1.
 
