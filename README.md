@@ -1,7 +1,7 @@
 My First GitHub Repository
 
-Name: Muhammad Sufyan
-Registration Number: BSNU25101015
+Name: Areej Munawar
+Registration Number: BSNU25101016
 
 This repository is created as part of Lab Activity #1.
 
