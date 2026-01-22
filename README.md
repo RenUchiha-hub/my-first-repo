@@ -1,7 +1,7 @@
 My First GitHub Repository
 
-Name: Iqra Hanif
-Registration Number: BSNU25101018
+Name: Saja Hanif
+Registration Number: BSNU25101012
 
 This repository is created as part of Lab Activity #1.
 
