@@ -1,7 +1,7 @@
 My First GitHub Repository
 
-Name: Jaddah Hayat
-Registration Number: BSNU25101025
+Name: Iqra Hanif
+Registration Number: BSNU25101018
 
 This repository is created as part of Lab Activity #1.
 
