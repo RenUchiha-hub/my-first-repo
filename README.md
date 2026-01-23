@@ -1,7 +1,7 @@
 My First GitHub Repository
 
-Name: Ehtisham Mughal
-Registration Number: BSNU25101003
+Name: Abdul Moiz
+Registration Number: BSNU25101001
 
 This repository is created as part of Lab Activity #1.
 
