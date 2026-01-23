@@ -1,7 +1,7 @@
 My First GitHub Repository
 
-Name: Zeeshan Haider
-Registration Number: BSNU25101005
+Name: Manahil Shoaib
+Registration Number: BSNU25101045
 
 This repository is created as part of Lab Activity #1.
 
