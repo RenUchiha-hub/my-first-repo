@@ -1,7 +1,7 @@
 My First GitHub Repository
 
-Name: Shezad ul Haq
-Registration Number: BSNU25101020
+Name: Zee Shah
+Registration Number: BSNU25101043
 
 This repository is created as part of Lab Activity #1.
 
