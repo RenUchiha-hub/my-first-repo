@@ -1,7 +1,7 @@
 My First GitHub Repository
 
-Name: Zee Shah
-Registration Number: BSNU25101043
+Name: Marium Nazeer
+Registration Number: BSNU25101037
 
 This repository is created as part of Lab Activity #1.
 
