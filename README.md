@@ -1,7 +1,7 @@
 My First GitHub Repository
 
-Name: Manahil Shoaib
-Registration Number: BSNU25101045
+Name: Ehtisham Mughal
+Registration Number: BSNU25101003
 
 This repository is created as part of Lab Activity #1.
 
